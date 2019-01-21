@@ -1,6 +1,6 @@
 # Four Function Calculator 
 
-This repositry contains the code for a basic 4 function calculator capable of preforming operations on 2 numbers 
+This repository contains the code for a basic 4 function calculator capable of preforming operations on 2 numbers 
 that additionally changes colors using the JSwing class.
 
 ## How It Works
